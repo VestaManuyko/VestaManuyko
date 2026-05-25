@@ -1,4 +1,4 @@
-# Hi, I am Vesta!
+# Hi, I am Vesta! 👋
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VestaManuyko&theme=tokyonight" />

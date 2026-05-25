@@ -1,10 +1,5 @@
 # Hi, I am Vesta! 👋
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VestaManuyko&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VestaManuyko&theme=tokyonight" />
-</p>
-
 ### 🔜 Current Projects
 - [C++ Projects](https://github.com/VestaManuyko/CPP_projects)
 

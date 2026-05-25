@@ -7,7 +7,6 @@
 
 ### 🔜 Current Projects
 - [C++ Projects](https://github.com/VestaManuyko/CPP_projects)
-- [Shell scripts for C++ project automation](https://github.com/VestaManuyko/CPP_automation_scripts)
 
 ### 💻 C
 
@@ -99,10 +98,20 @@
   <b>Repo:</b> <a href="https://github.com/VestaManuyko/CC">Bron2BeRoot</a><br/>
   <b>Concepts:</b> Unix, Debian, sh/bash, cron, system-administration, virtualisation
 </details>
+
 <details>
   <summary><b>🛜 42 - NetPractice</b> - Basic Network Management</summary>
   <b>Repo:</b> <a href="https://github.com/VestaManuyko/Netpractice">Netpractice</a><br/>
   <b>Concepts:</b> Networking, IP, Subnet masks, Default gateway, TCP/IP
+</details>
+
+<hr/>
+
+### 🤖 Shell scripts
+<details>
+  <summary><b> 🤖 CPP automation scripts </b> - automation scripts for cpp modules at 42</summary>
+  <b>Repo:</b> <a href="https://github.com/VestaManuyko/CPP_automation_scripts">CPP automation scripts</a><br/>
+  <b>Concepts:</b> shell scripting, automation
 </details>
 
 <hr/>
